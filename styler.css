@@ -340,7 +340,7 @@ body .link_flex {
     }
 }
 
-@media screen and (max-width: 1200px) and (min-width:1170px) {
+@media screen and (max-width: 1220px) and (min-width:1170px) {
     body .outer .about {
         font-size: 30px;
         position: relative;
